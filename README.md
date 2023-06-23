@@ -1,7 +1,7 @@
 # preset-verse
 PresetVerse - Tone Preset Sharing Platform (Provisional Patent Submitted to USPTO)
 
-** THIS APP IS STILL UNDER DEVELOPMENT **
+**THIS APP IS STILL UNDER DEVELOPMENT**
 
 PresetVerse is an app empowering musicians and producers with a centralized, interactive platform to collaborate, market, rate/comment, and download/upload tone presets to interface with popular audio production software or live equipment; streamlining the creative process for both hobbyists and industry professionals. Users can browse presets based on genre, artist, or gear model, and rate/comment on presets shared by fellow musicians.
 
