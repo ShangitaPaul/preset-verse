@@ -5,15 +5,17 @@ PresetVerse - Tone Preset Sharing Platform (Provisional Patent Submitted to USPT
 
 PresetVerse is an app empowering musicians and producers with a centralized, interactive platform to collaborate, market, rate/comment, and download/upload tone presets to interface with popular audio production software or live equipment; streamlining the creative process for both hobbyists and industry professionals. Users can browse presets based on genre, artist, or gear model, and rate/comment on presets shared by fellow musicians.
 
+
+
 **Background/Rationale:**
 
 We all love music. If you read my GitHub profile ReadMe, you would know it was the reason I am even in this profession. However, most are unaware of how much work it takes to make a record. As a fellow musician and audio professional, I've had countless conversations with my peers about the production issues and lag-time that arise from not having a streamlined  communication platform. For example, my close friend and music producer discussed the laborious task of setting up an artist's live vocal processing chain on a USB audio interface, such as Universal Audio's Apollo; where she'd have to contact record producers to send VERY HIGH VOLUME files containing audio parameters and input them into her gear by hand!
 
-Currently, there is no existence of a centralized platform for musicians and music creators to get together and share preset files and ideas.
+Currently, there is no **_CENTRALIZED_** platform for musicians and music creators to get together and share preset files and ideas. The current platforms have their own unique focus, user bases, and integrations with specific hardware or software. On the other hand, PresetVerse caters to various audio production software and live equipment, encompassing a wide range of genres and musical instruments, and emphasizing collaboration and networking among musicians and sound designers.
 
-The Tone Preset Sharing Platform not only enhances the ability for musicians and creators to make preset packs for guitar amplifiers, as well as interface with state-of-the-art tools such as Abelton fx, etc., but it would provide a streamlined production, collaboration, and marketing utility for standalone/one-off companies or producers (like my friend) that have to individually set up their own creative spaces, websites, compensation routes, social media/marketing, etc.
+The Tone Preset Sharing Platform not only enhances the ability for musicians and creators to make preset packs for guitar amplifiers, pedals, etc., as well as interface with state-of-the-art tools such as Abelton fx, etc., but it would provide a streamlined production, collaboration, and marketing utility for standalone/one-off companies or producers (like my friend) that have to individually set up their own creative spaces, websites, compensation routes, social media/marketing, etc.
 
-I thought to myself, if we as a community were all signed up for a centralized sharing platform, collaborators could easily export their settings as a preset and upload it to the interface to share with one another. 
+If the music community were all signed up for a centralized sharing platform, collaborators could easily export their settings as a preset and upload it to the interface to share with one another. 
 
 For me, this project hits a very powerful and emotional endpoint. Music provided me with the strength to overcome my challenges to pursue a field that I love, and provide a life for myself that would bring me joy. During my time as a hardware engineer, I used my expertise to design some of the most innovative products launched into the Pro-Audio and Consumer audio markets. However, as I embark upon this new journy into software engineering, I felt it was time for me to use my skills to to give back to the community that made all of my dreams and accomplishments possible.
 
