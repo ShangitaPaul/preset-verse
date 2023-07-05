@@ -82,16 +82,20 @@ These features aim to create a robust and engaging platform for musicians, sound
 
 # Server Instructions for rough code in repository 
 #Install Django using pip
+
 pip install django
 
 #Create a new Django project
+
 django-admin startproject music_platform
 cd music_platform
 
 #Create a new Django app
+
 python manage.py startapp music_app
 
 #Run the server
+
 python manage.py runserver
 
 
