@@ -79,3 +79,19 @@ The Tone Preset Sharing Platform would involve a combination of programming lang
 10. User Support and Documentation: PresetVerse can provide user support channels such as in-app chat, forums, or email support. Furthermore, it can offer comprehensive documentation and tutorials to help users understand the app's features, maximize their creative potential, and troubleshoot any issues.
 
 These features aim to create a robust and engaging platform for musicians, sound designers, and enthusiasts to collaborate, discover, and share tone presets, ultimately streamlining the music production process for both hobbyists and industry professionals.
+
+# Server Instructions for rough code in repository 
+#Install Django using pip
+pip install django
+
+#Create a new Django project
+django-admin startproject music_platform
+cd music_platform
+
+#Create a new Django app
+python manage.py startapp music_app
+
+#Run the server
+python manage.py runserver
+
+
