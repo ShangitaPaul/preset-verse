@@ -80,7 +80,7 @@ The Tone Preset Sharing Platform would involve a combination of programming lang
 
 These features aim to create a robust and engaging platform for musicians, sound designers, and enthusiasts to collaborate, discover, and share tone presets, ultimately streamlining the music production process for both hobbyists and industry professionals.
 
-# Server Instructions for rough code in repository 
+# Server Instructions for sample code in repository 
 #Install Django using pip
 
 pip install django
