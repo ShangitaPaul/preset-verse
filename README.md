@@ -1,3 +1,6 @@
+# Sample Code
+The code in this repository is sample code for a centralized interactive platform for music collaboration, rating, and sharing tone presets. This example uses Python with the Django web framework for the backend, HTML and CSS for the frontend. 
+
 # preset-verse
 PresetVerse - Tone Preset Sharing Platform (Provisional Patent Submitted to USPTO)
 
